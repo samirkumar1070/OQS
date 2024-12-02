@@ -69,8 +69,8 @@ export default function TestList(props) {
                         {test.testName}
                       </p>
                       <div className="test__time">
-                        <p className="time start">Start: Oct 26 2020 12:14PM</p>
-                        <p className="time end">End: Oct 29 2020 11:50PM</p>
+                        <p className="time start">Start: Dec 03 2024 11:15AM</p>
+                        <p className="time end">End: Dec 03 2024 11:20AM</p>
                       </div>
                     </div>
                   ))
